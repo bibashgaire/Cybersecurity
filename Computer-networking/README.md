@@ -11,4 +11,8 @@
 
 4.Dynamic IP: An address automatically assigned by a router (via DHCP) that can change each time we connect.
 
-DNS(Domain Name System): It translate the human readable doman names (www.google.com) into machine readable IP address (74.125.239.35) 
+DNS(Domain Name System): It translate the human readable doman names (www.google.com) into machine readable IP address (74.125.239.35) also known as phonebook of the internet.
+
+Port: A port is like a door or gate that lets information in and out of a computer in IT there is two types of port Physical Port and Logical Port. Some example of logical port are 80 for HTTP, 443 HTTPS, 22 SSH, 53 DNS etc
+
+TCP vs UDP: TCP (Transmission Control Protocol) and UDP (User Datagram Protocol) are the two primary transport layer protocols used for sending data over the internet. TCP is a connection-oriented protocol that guarantees data delivery but UDP is a connectionless protocol that prioritizes speed.
