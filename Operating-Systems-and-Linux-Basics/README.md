@@ -13,7 +13,11 @@
 ***Linux Filesystem***
 In linux filesystem everything starts from /( also root). Some important folders in linux like
 /home (user files)
+
 /etc (configuration files)
+
 /bin (essential commanmds)
+
 /var (logs and variable data)
+
 /tmp (temporary files)
