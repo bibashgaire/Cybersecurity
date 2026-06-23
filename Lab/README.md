@@ -1,5 +1,13 @@
 # Cybersecurity Home Lab
 
+![Kali Linux](https://img.shields.io/badge/Kali-Linux-blue)
+![Python](https://img.shields.io/badge/Python-3.x-green)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-Lab-orange)
+![Wireshark](https://img.shields.io/badge/Wireshark-Network_Analysis-lightblue)
+
+
+# Cybersecurity Home Lab
+
 ## Overview
 This repository documents my cybersecurity virtual lab used for ethical hacking practice, vulnerability assessment, and defensive security research.
 
