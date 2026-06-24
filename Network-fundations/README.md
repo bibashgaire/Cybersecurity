@@ -28,3 +28,31 @@ It is assigned by our ISP, which is visible to the internet. Everyone in a LAN m
 
 ## Packets
 Data travels in small pieces called packets. Large files are broken into packets and reassembled at the destination.
+
+## DNS 
+Translate the domain name into the ip address like www.google.com to 142.25.x.x, without dns it will be very difficult to memorize all the numerical value.
+
+## TCP vs UDP (Delivery System)
+TCP is reliable
+- Checks delivery
+- Resends lost packets
+- Slower but safe
+  used in website, login pages, emails etc.
+UDP is fast chaos
+- No guarantee packet arrive
+- No waiting
+- Just speed
+  used in gaming, live streams, calls
+
+## Ports (Service Doors)
+A single IP can run many services. Ports seperate them.
+Examples 
+
+443 -- HTTPS(secure web)
+
+80 -- HTTP(normal web)
+
+22 -- SSH(remote login)
+
+
+  
