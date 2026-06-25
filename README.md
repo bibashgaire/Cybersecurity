@@ -1,3 +1,8 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/bibashgaire/cybersecurity)
+![GitHub repo size](https://img.shields.io/github/repo-size/bibashgaire/cybersecurity)
+![License](https://img.shields.io/github/license/bibashgaire/cybersecurity)
+![Learning](https://img.shields.io/badge/Status-Learning-blue)
+
 
 🛡️ Cybersecurity
 
@@ -19,6 +24,7 @@ The goal of this repository is to:
 
 Cybersecurity/
 │
+
 ├── Theory/
 │   ├── Networking
 │   ├── Linux
