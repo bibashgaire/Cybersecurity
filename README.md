@@ -1,10 +1,10 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/bibashgaire/cybersecurity)
-![GitHub repo size](https://img.shields.io/github/repo-size/bibashgaire/cybersecurity)
-![License](https://img.shields.io/github/license/bibashgaire/cybersecurity)
-![Learning](https://img.shields.io/badge/Status-Learning-blue)
 
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-blue)
+![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-Active-green)
+![Linux](https://img.shields.io/badge/Linux-Learning-FCC624?logo=linux&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Learning-blue)
 
-🛡️ Cybersecurity
+# 🛡️ Cybersecurity
 
 Welcome to my Cybersecurity repository!
 
@@ -21,14 +21,14 @@ The goal of this repository is to:
 - Track my learning progress over time.
 
 📂 Repository Structure
-
+```
 Cybersecurity/
 │
-
 ├── Theory/
 │   ├── Networking
 │   ├── Linux
 │   ├── Windows
+│   ├── Cryptography
 │   ├── Web Security
 │   ├── OWASP Top 10
 │   ├── Malware
@@ -43,7 +43,7 @@ Cybersecurity/
 │
 ├── Notes/
 └── README.md
-
+```
 🎯 Topics Covered
 
 - Computer Networks
